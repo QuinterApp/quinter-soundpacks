@@ -10,7 +10,6 @@ Soundpacks repository for the Quinter Twitter client.
 
 Simply open a pull request adding your soundpack. **Make sure it goes in it's own folder!** Your pack must contain the following files.
 
-* audio.ogg: Sound played for when you scroll over a tweet that contains audio that Quinter can play.
 * boundary.ogg: Sound played for when you hit the edge of the buffer.
 * close.ogg: The sound for when you close a timeline.
 * delete.ogg: The sound for when you delete a Tweet.
