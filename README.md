@@ -4,7 +4,7 @@ Soundpacks repository for the Quinter Twitter client.
 
 ## Why?
 
-[Quinter](http://masonasons.me/pages/quinter.php) supports custom soundpacks, allowing users to customize Quinter to their liking. Before, users have had to give out Dropbox (or similar), links in order to share their packs. This repository aims to fix this problem.
+[Quinter](https://github.com/QuinterApp/Quinter) supports custom soundpacks, allowing users to customize Quinter to their liking. Before, users have had to give out Dropbox (or similar), links in order to share their packs. This repository aims to fix this problem.
 
 ## Contributing a pack.
 
